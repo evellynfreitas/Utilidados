@@ -1,3 +1,5 @@
+CREATE DATABASE utilidados;
+
 use utilidados;
 
 CREATE TABLE `tabrj2019` (
